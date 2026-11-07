@@ -43,6 +43,3 @@ python-expense-tracker/
 ├── main.py
 └── README.md
 
-## Author
-
-YOUR NAME
